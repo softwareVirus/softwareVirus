@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İbrahim Halil Sakli</h1>
+![image](https://github.com/softwareVirus/softwareVirus/assets/63147096/68d169bc-31c5-4519-8200-fefba77c3820)![image](https://github.com/softwareVirus/softwareVirus/assets/63147096/a927390e-9509-4490-9b04-2429efcde3f5)<h1 align="center">Hi 👋, I'm İbrahim Halil Sakli</h1>
 <h3 align="center">A Full-Stack Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softwarevirus&label=Profile%20views&color=0e75b6&style=flat" alt="softwarevirus" /> </p>
@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/https://linkedin.com/in/ibrahim-halil-sakli-83a5061b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ibrahim-halil-sakli-83a5061b1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ibrahimsdakli52?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ibrahimsdakli52?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/softwarevirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="softwarevirus" height="30" width="40" /></a>
-<a href="www.codewars.com/users/GojoSatoru" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.codewars.com%2F2019%2Fnew-languages%2F&psig=AOvVaw1bZWlpTAdy02tx2Ctm8feL&ust=1689858640702000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi5-fPsmoADFQAAAAAdAAAAABAN" alt="gojosatoru" height="30" width="40" /></a>
+<a href="www.codewars.com/users/GojoSatoru" target="_blank"><img align="center" src="" alt="gojosatoru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
