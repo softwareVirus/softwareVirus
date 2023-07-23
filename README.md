@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ibrahimsdakli52@hotmail.com**
 
-- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/19k6SXdcB0CoD66_TNxW9_dk7dDp0wNL5/view?usp=sharing)]
+- 📄 Know about my experiences [CV(https://drive.google.com/file/d/19k6SXdcB0CoD66_TNxW9_dk7dDp0wNL5/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
