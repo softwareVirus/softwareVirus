@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softwarevirus" alt="softwarevirus" /></a> </p>
 
-[//]: <>(- 🔭 I’m currently working on **HAVELSAN**)
+[//]: <> (- 🔭 I’m currently working on **HAVELSAN**)
 
 - 🌱 I’m currently learning **Next.js**
 
